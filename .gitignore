@@ -1,8 +1,7 @@
 .env
 package-lock.json
 node_modules/
-<<<<<<< HEAD
 config.json
-=======
-config.json
->>>>>>> 8c411912f7134ea5d793786d554733ca1d77f27b
+events.js
+
+
